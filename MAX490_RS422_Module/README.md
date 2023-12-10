@@ -1,4 +1,4 @@
-![image](https://github.com/GitMasterNikanjam/PCB_utility/assets/19185155/475c21d5-aab2-4ff3-9e15-88d1317f157d)
+<img src="https://github.com/GitMasterNikanjam/PCB_utility/assets/19185155/475c21d5-aab2-4ff3-9e15-88d1317f157d" alt="Your Image" width="300" height="200">
 
 # Whole Shematic View:
 
